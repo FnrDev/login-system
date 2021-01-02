@@ -4,8 +4,7 @@
 
 - get started
 
-1- First create file named "config.json"
-2- npm install
+1- First create file named "config.json"<br>2- npm install
 
 - config.json
 ```
